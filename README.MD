@@ -2,7 +2,7 @@
 ---- 
 ### 说明
 * 该项目是学习 *极客时间* 该专栏的学习笔记
-*  [官方源码地址][1]
+* [官方源码地址](https://github.com/JosephZhu1983/java-common-mistakes/)
 
 ### 进度
 
